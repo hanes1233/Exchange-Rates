@@ -3,6 +3,11 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+node_modules
+*.jpg
+*.jpeg
+*.png
+*.properties
 
 ### STS ###
 .apt_generated
@@ -18,7 +23,6 @@ target/
 *.iws
 *.iml
 *.ipr
-*.png
 *.svg
 
 ### NetBeans ###
